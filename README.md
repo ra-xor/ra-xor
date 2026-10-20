@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mostafa Sherif
 
-<!--
-**ra-xor/ra-xor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **software for hardware** and research **efficient world models**.
 
-Here are some ideas to get you started:
+For 20 years I diagnosed vehicle electronics, ending as Toyota New Zealand's national escalation point. Now I write C++/CUDA and Python, and do AI research for my Master of Information Sciences at Massey University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research now:** RAXOR, a JEPA-style latent-diffusion world model with Mamba memory (submitted to *Autonomous Intelligent Systems*, Sep 2026). Before that I reimplemented the JEDI world model from the paper alone and evaluated it over 5 seeds on Atari Breakout. Next: hierarchical world models.
+
+**Tools:** C++ · CUDA · Python · PyTorch · JAX · MPI / OpenMP · Linux
+
+**On this profile:** AstraGuard (satellite collision-risk tool using Space-Track conjunction data) and GPUCompute (OpenGL compute shaders). More projects are being cleaned up for release.
+
+**Contact:** mostafa.sherif.nz@gmail.com · [LinkedIn](https://www.linkedin.com/in/mostafasherif/) · [ORCID](https://orcid.org/0009-0003-5029-7199)
