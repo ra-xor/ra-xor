@@ -8,6 +8,6 @@ For 20 years I diagnosed vehicle electronics, ending as Toyota New Zealand's nat
 
 **Tools:** C++ · CUDA · Python · PyTorch · JAX · MPI / OpenMP · Linux
 
-**On this profile:** AstraGuard (satellite collision-risk tool using Space-Track conjunction data) and GPUCompute (OpenGL compute shaders). More projects are being cleaned up for release.
+**On this profile:** AstraGuard (satellite collision-risk tool using Space-Track conjunction data) and CourseGen AI Squad (a multi-agent system with Google ADK and A2A). More projects, including C++/CUDA and HPC work, are being cleaned up for release.
 
 **Contact:** mostafa.sherif.nz@gmail.com · [LinkedIn](https://www.linkedin.com/in/mostafasherif/) · [ORCID](https://orcid.org/0009-0003-5029-7199)
